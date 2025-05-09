@@ -4,7 +4,7 @@ rm -rf ~/.config/nvim/
 #
 git clone https://github.com/KyNarec/neovim_config.git ~/.config/temporary
 cd ~/.config/
-cp ~/.config/temporary/nvim ~/.config/
+cp -r ~/.config/temporary/nvim ~/.config/
 # rm -rf ./README.md
 # rm -rf ./install.sh
 # rm -rf ./.git/
