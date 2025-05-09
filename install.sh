@@ -1,3 +1,5 @@
+rm -rf ~/.local/state/nvim
+rm -rf ~/.local/share/nvim
 rm -rf ~/.config/nvim/
 # cp $PWD/nvim/ ~/.config/
 # echo $PWD
