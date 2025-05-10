@@ -3,7 +3,7 @@
 [Neovim](https://neovim.io/)\
 [Nerd Font](https://www.nerdfonts.com/font-downloads) (recommended: JetBrainsMono Nerd Font([Link to AUR download](https://archlinux.org/packages/extra/any/ttf-jetbrains-mono-nerd/)))
 
-## For Hyprlsp plugin
+## For Hyprls plugin
 
 [go](https://go.dev/doc/install)
 
