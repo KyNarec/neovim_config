@@ -7,7 +7,7 @@
 
 [go](https://go.dev/doc/install)
 
-## For Latex
+## For Latex (only AUR download links)
 
 [texlive](https://aur.archlinux.org/packages/texlive)\
 [texlive-langgerman](https://aur.archlinux.org/packages/texlive-langgerman)\
