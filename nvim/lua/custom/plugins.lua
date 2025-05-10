@@ -4,7 +4,7 @@ local plugins = {
 
   {
     "nvim-neotest/nvim-nio",
-  },
+},
 
   {
     "nvim-java/nvim-java",
@@ -185,7 +185,10 @@ local plugins = {
         "latexindent",
 
         -- Hyprland
-        "hyprls"
+        "hyprls",
+
+        -- Lua
+        "lua-language-server"
       },
     },
   },
